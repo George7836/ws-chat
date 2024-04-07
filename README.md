@@ -1,1 +1,1 @@
-# ws-chat
+# ws-live-cursors
